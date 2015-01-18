@@ -3,6 +3,8 @@
 #include <time.h>
 #include <math.h>
 
+//Contributors Joka, Dworakowski, Dziemianczuk
+
 /*
  Tablica chromosomow. Przyjmuje wartosci 0 lub 1;
  Kazdy wiersz stanowi jeden chromosom.
