@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1421804006 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\generators.c
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1421836614 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"core.h"
+
+1421832637 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\core.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"generators.h"
+	"sort.h"
+	"init.h"
+	"mutation.h"
+	"functions.h"
+	"chromosoms.h"
+	"crossover.h"
+	"selection.h"
+
+1421804353 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\generators.h
+
+1421804317 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\sort.h
+
+1421804149 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\sort.c
+
+1421805092 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\init.c
+	"core.h"
+
+1421805127 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\init.h
+
+1421805294 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\mutation.h
+
+1421805554 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\functions.h
+
+1421805720 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\chromosoms.h
+
+1421805753 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\chromosoms.c
+	"core.h"
+
+1421805504 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\functions.c
+	"core.h"
+
+1421806099 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\crossover.h
+
+1421805938 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\mutation.c
+	"core.h"
+
+1421806300 d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\selection.h
+
+1421806143 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\crossover.c
+	"core.h"
+
+1421806247 source:d:\studia\informatyka\semestr v\alogrytmy ewolucyjne\projekt2\optymalizacja\selection.c
+	"core.h"
+
